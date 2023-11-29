@@ -1,6 +1,6 @@
 # stopwatch-react
 
-This is a react project that builds a stopwatch
+This is a stopwatch project build with react.js
 
 # Setup
 
