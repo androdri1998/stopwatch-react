@@ -12,9 +12,9 @@ This is a react project that builds a stopwatch
 
 `$ npm run dev`
 
-## Access url printed at terminal
+## Check link
 
-to see application running
+Access url printed at terminal to see application running
 
 # Designs
 
