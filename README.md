@@ -1,4 +1,4 @@
-# calculator-react
+# stopwatch-react
 
 This is a react project that builds a stopwatch
 
